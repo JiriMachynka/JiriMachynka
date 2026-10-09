@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jiří Machynka 👋</h1>
 
 <p align="center">
-  Full-stack TypeScript developer from Ostrava, Czech Republic 🇨🇿<br/>
+  Full-stack TypeScript developer from Ostrava, Czech Republic <img src="https://flagcdn.com/20x15/cz.png" width="20" height="15" alt="Czech flag"/><br/>
   I build web apps, developer tools and desktop apps, from idea to deploy.
 </p>
 
